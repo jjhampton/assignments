@@ -37,13 +37,13 @@ After completing this assignment, you be able to
 
 ### Deliverables
 * [An issue in the class
-  repo](https://github.com/TIY-GVL-FEE-2015-May/assignments) titled `01 -
+  repo](https://github.com/TIY-GVL-FEE-2015-May/assignments) titled `1.1 -
   Personal Website -- YOUR NAME` with:
     * checkboxes as below under _Requirements_
-* A repository named `01-Personal-Website` containing at least:
+* A repository named `1.1-Personal-Website` containing at least:
   * `index.html`
   * `main.css`
-* A Pull Request (PR) in your `01-Personal-Website` repo:
+* A Pull Request (PR) in your `1.1-Personal-Website` repo:
     * _from_ branch `develop`
     * _into_ branch `master`
 * A comment on your Issue with a link to your PR
@@ -58,9 +58,9 @@ After completing this assignment, you be able to
 
 * [ ] Create a new Issue with these tasks!
 * [ ] Use the Github web interface to create a repository called
-  `01-Personal-Website`
+  `1.1-Personal-Website`
 * [ ] Use the Github web interface to create a branch called on
-  `01-Personal-Website` called `develop`
+  `1.1-Personal-Website` called `develop`
 * [ ] In Github, open a PR _from_ `develop` _into_ `master`
 * [ ] Create your personal website
     * [ ] Checkpoint: Created and committed `index.html`
