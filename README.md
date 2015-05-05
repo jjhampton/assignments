@@ -5,8 +5,8 @@ Additional instructions or direction may be provided in the assignment file, but
 always ensure that you follow these steps.
 
 * Create an issue in _this_ repository for every assignment
-    * Name it according to the assignment name with your name appended, e.g. `01
-      - Personal Website - Jacob Smith`
+    * Name it according to the assignment name with your name appended, e.g.
+      `1.1 - Personal Website - Jacob Smith`
     * If tasks (i.e. check boxes) are provided for you in the assignment file,
       include them as the _description_ of your WIP Issue
     * If tasks are _not_ provided for you (as in later assignments), create your
@@ -20,7 +20,7 @@ always ensure that you follow these steps.
   each issue
 * Create a new repository for the assignment
     * Name the repository according to the assignment, e.g.
-      `01-Personal-Website`
+      `1.1-Personal-Website`
     * Create a branch in that repository named `develop`
     * Ensure that you commit _all_ your work into that branch _only_
     * Push that branch to Github regularly to show progress
