@@ -20,7 +20,7 @@ always ensure that you follow these steps.
   each issue
 * Create a new repository for the assignment
     * Name the repository according to the assignment, e.g.
-      `1.1-Personal-Website`
+      `1.1-personal-website`
     * Create a branch in that repository named `develop`
     * Ensure that you commit _all_ your work into that branch _only_
     * Push that branch to Github regularly to show progress
