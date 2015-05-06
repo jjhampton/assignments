@@ -60,8 +60,8 @@ After completing this assignment, you be able to
 * [ ] Use the Github web interface to create a repository called
   `1.1-Personal-Website`
 * [ ] Use the Github web interface to create a branch called on
-  `1.1-Personal-Website` called `develop`
-* [ ] In Github, open a PR _from_ `develop` _into_ `master`
+  `1.1-Personal-Website` called `<initials>-develop`
+* [ ] In Github, open a PR _from_ `<initials>-develop` _into_ `master`
 * [ ] Create your personal website
     * [ ] Checkpoint: Created and committed `index.html`
     * [ ] Checkpoint: Created and committed `main.css`
