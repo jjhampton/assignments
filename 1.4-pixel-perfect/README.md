@@ -80,11 +80,13 @@ Complete Normal Mode, then make the website fully responsive and adhere to this
     * [ ] Follow the assignment instructions to create a new repository.
     * [ ] Create and commit `index.html`
     * [ ] Follow the assignment instructions to create a new pull request.
+    * [ ] **Read [this article](http://diveintohtml5.info/semantics.html) about
+      semantic HTML.**
 * **Slice the Comp**
-    * Annotate the following images to denote:
-        * the tag names and bounding boxes of semantic block-level elements
-        * essential CSS properties and values like `margin` and `padding`
-        * anything else that will help you execute the design!
+    Annotate the following images to denote:
+      * the tag names and bounding boxes of semantic block-level elements
+      * essential CSS properties and values like `margin` and `padding`
+      * anything else that will help you execute the design!
 
     * [ ] Checkpoint: Sliced the page header, annotated and committed!
     * [ ] Checkpoint: Sliced the page footer, annotated and committed!
