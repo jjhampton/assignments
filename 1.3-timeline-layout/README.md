@@ -31,6 +31,35 @@ After completing this assignment, you should be able to effectively:
 
 ### Requirements
 
+### Tasks
+
+* **Get Started**
+  * [ ] Open a new Issue in the class repo and add these checkboxes to your Issue.
+  * [ ] Create a new repository named `1.3-timeline-layout`. You can either
+    start on GitHub or on your computer, using the instructions [in the
+    notes](http://jacobthemyth.gitbooks.io/front-end-engineering-may-2015/content/notes/git/git-workflow.html)
+  * [ ] Create and switch to a new branch named `<initials>-develop` from
+    `master`. _Ensure you have `master` checked out and up-to-date before you
+    start!_ Then use the command `git checkout -b <initials>-develop`.
+  * [ ] Create and commit an `index.html` file, either using Atom or the
+    command `touch index.html`.
+  * [ ] Push your work into Github
+  * [ ] _Immediately_ open a PR _from_ `<initials>-develop` _into_ `master`
+* [ ]  **Read Learn Layout**: Find the link below
+* **Write Some Code**
+  * [ ] Checkpoint: Initial commit!
+  * [ ] Checkpoint: Basic page structure (HTML only)!
+  * [ ] Checkpoint: First line of CSS committed and pushed!
+  * [ ] Checkpoint: Two column layout achieved.
+  * [ ] Checkpoint: Colors are exactly right.
+  * [ ] Checkpoint: Icons in place.
+  * [ ] Checkpoint: Circles and lines finished.
+  * [ ] Mission Complete
+
+* **Hard Mode**
+  * [ ] Hover states and transitions are done. Fancy.
+  * [ ] Finish reading HTML & CSS Lessons by Shay Howe.
+
 ## Normal Mode
 
 Recreate the following layout in HTML and CSS. Try to get it as close to pixel
@@ -47,6 +76,7 @@ shades of blue change on hover.
 ## Additional Resources
 
 - http://learnlayout.com/
+- http://learn.shayhowe.com/
 - List of HTML tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - List of HTML attributes: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 - All the CSS properties! https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
