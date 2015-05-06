@@ -73,8 +73,6 @@ Instead of, or in addition to, the Surf and Paddle website:
 Complete Normal Mode, then make the website fully responsive and adhere to this
 [responsive wireframe](assets/surf-and-paddle-responsive.pdf).
 
-![Response Surf and Paddle comp](assets/surf-and-paddle-responsive.pdf)
-
 ### Tasks
 
 * **Getting Started**
