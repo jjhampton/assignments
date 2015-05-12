@@ -66,7 +66,7 @@ After completing this assignment, you be able to
 #### Icons
 - [Icons](images/icons/)
 
-![](https://raw.githubusercontent.com/TIY-GVL-FEE-2015-Jan/homework-resources/master/responsive-columns/video.gif)
+![](images/sushi/video.gif)
 
 ### Form
 Recreate the following layout in HTML and CSS:
