@@ -64,7 +64,7 @@ After completing this assignment, you be able to
 - [Mobile](images/sushi/mobile.png)
 
 #### Icons
-- [Icons](images/icons/)
+- [Icons](images/sushi/icons/)
 
 ![](images/sushi/video.gif)
 
