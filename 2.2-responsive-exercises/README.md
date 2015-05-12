@@ -76,8 +76,9 @@ Recreate the following layout in HTML and CSS:
 ### Shirts
 Recreate the following layout in HTML and CSS:
 
-![](images/tshirts.gif)
+![](images/tshirts/video.gif)
 
 * It should shrink to one column on mobile.
 * `:hover` doesn't work on mobile, so you will need to use another method to
   show the menus on mobile. **Hint:** try looking up `:active`.
+* [Images](images/tshirts/)
