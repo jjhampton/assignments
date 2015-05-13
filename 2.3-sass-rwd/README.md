@@ -44,6 +44,36 @@ After completing this assignment, you be able to effectively use
 * The finished prototype must be responsive and adjust in a usable way to mobile devices.
 * SASS will be written and compiled to CSS
 
+### Tasks
+
+#### Getting Started
+  * [ ] Create a new issue with tasks and estimates
+  * [ ] Create a new repository
+  * [ ] Create a new branch based on `master` named `<initials>-develop`
+  * [ ] Create and commit `index.html` and `scss/main.scss`
+  * [ ] Push and open a Pull Request to `master`
+  * [ ] Install Bourbon and Neat
+  * [ ] HTML Boilerplate
+  * [ ] Add structure using HTML
+  * [ ] Add all images and content
+
+#### Desktop Size
+  * [ ] Finish social buttons
+  * [ ] Finish nav
+  * [ ] Finish header
+  * [ ] Finish posts
+  * [ ] Finish skateboarders
+  * [ ] Finish skateboards
+  * [ ] Finish footer
+
+#### Mobile Size
+  * [ ] Add mobile styles for social buttons
+  * [ ] Add mobile styles for nav
+  * [ ] Add mobile styles for header
+  * [ ] Add mobile styles for posts
+  * [ ] Add mobile styles for skateboarders
+  * [ ] Add mobile styles for skateboards
+  * [ ] Add mobile styles for footer
 
 ## Hard Mode
 
