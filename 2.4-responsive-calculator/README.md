@@ -62,6 +62,17 @@ multiply (\*), and divide (/).
   * [ ] Make the buttons appear 3D and use CSS transitions to "press" the button
     when clicked.
 
+#### JavaScript Reading
+Read the following about JavaScript. I have linked directly to the paragraphs
+you should read. **You're welcome to read the whole chapters, but the only thing
+I expect you to read is the single paragraph I have linked to.**
+  * [ ] Read [Values](http://eloquentjavascript.net/01_values.html#h_sVZPaxUSy/)
+  * [ ] Read [Numbers](http://eloquentjavascript.net/01_values.html#h_flOCH3CuFg)
+  * [ ] Read [Arithmetic](http://eloquentjavascript.net/01_values.html#h_RfBT3HMnYs)
+  * [ ] Read [Variables](http://eloquentjavascript.net/02_program_structure.html#h_rAGNsfewCX)
+  * [ ] Read [Defining A Function](http://eloquentjavascript.net/03_functions.html#h_tqLFw/oazr)
+  * [ ] Read [Event Handlers](http://eloquentjavascript.net/14_event.html#h_HQoLxG2r2l)
+
 #### JavaScript behavior
   * [ ] Create and commit `main.js`
   * [ ] Link to your `main.js` using a `<script>` tag. **It should be the last
@@ -93,6 +104,7 @@ Add the following functions to your calculator:
 - A decimal point (Hint: you can add a decimal point to a String, then change
   the String into a Number)
 - Scientific calculator functions
+
   - square
   - cube
   - arbitrary exponent
@@ -106,15 +118,19 @@ Add the following functions to your calculator:
   - sinh
   - cosh
   - tanh
+
 - Scientific calculator values
+
   - pi
   - e
 
 ## Nightmare Mode
 - Sciencific calculator memory functions
+
   - mc
   - m+
   - m-
   - mr
+
 - Make the calculator responsive using Neat so that when the browser is mobile
   size, the scientific functions disappear.
