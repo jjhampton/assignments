@@ -42,6 +42,8 @@ calculation instead of displaying it on a screen.
 The basic functionality should include clear (C), add (+), subtract (-),
 multiply (\*), and divide (/).
 
+![Normal calculator](normal.png)
+
 ### Tasks
 
 #### Getting Started
@@ -123,6 +125,8 @@ Add the following functions to your calculator:
 
   - pi
   - e
+
+![Scientific Calculator](scientific.png)
 
 ## Nightmare Mode
 - Sciencific calculator memory functions
