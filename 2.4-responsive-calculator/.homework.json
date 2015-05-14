@@ -1,0 +1,14 @@
+{
+    "name": "responsive-calculator",
+    "version": "0.0.1",
+    "title": "Responsive Calculator",
+    "description": "A calculator built with HTML, CSS, and JavaScript",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "JavaScript"
+    ]
+}
