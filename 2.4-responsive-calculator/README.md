@@ -39,8 +39,8 @@ Write a calculator using HTML, CSS, and JavaScript.  It should function exactly
 like Calculator.app on your computer, except that it should alert the
 calculation instead of displaying it on a screen.
 
-The basic functionality should include add (+), subtract (-), multiply (\*), and
-divide (/).
+The basic functionality should include clear (C), add (+), subtract (-),
+multiply (\*), and divide (/).
 
 ### Tasks
 
@@ -78,6 +78,14 @@ divide (/).
     ```js
     alert("hello");
     ```
+  * [ ] Using the example code from class, add event listeners to all of the
+    number buttons that alerts the number you clicked.
+  * [ ] Define a function named `operatorPressed` that alerts the operator (+,
+    -, \*, /, C) when pressed.
+  * [ ] Define a function named `equalPressed` that alerts "=" when pressed.
+  * [ ] Define a variable named `calculation` to store the running calculation.
+  * [ ] Perform calculations on the `calculation` variable when numbers and
+    operators are pressed, and alert the calculation when "=" is pressed.
 
 ## Hard Mode
 Add the following functions to your calculator:
