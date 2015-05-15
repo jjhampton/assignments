@@ -78,7 +78,7 @@ I expect you to read is the single paragraph I have linked to.**
 #### JavaScript behavior
   * [ ] Create and commit `main.js`
   * [ ] Link to your `main.js` using a `<script>` tag. **It should be the last
-    thing before the `<body>` tag.**
+    thing before the `</body>` tag.**
 
     ```html
     <body>
