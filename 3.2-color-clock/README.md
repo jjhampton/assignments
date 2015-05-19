@@ -52,6 +52,7 @@ Create a new Github repo, setup your project files, and recreate the following s
   * [ ] Push and open a Pull Request to `master`
   * [ ] HTML Boilerplate
   * [ ] Add structure using HTML
+
 #### Make it Tick
   * [ ] Create and commit a new file in called `main.js`
   * [ ] Created and committed and **RAN** `main.js`
