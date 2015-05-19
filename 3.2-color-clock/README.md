@@ -38,16 +38,33 @@ After completing this assignment, you should be able to effectively use:
 * All functions should be complete and produce the expected output
 * The clock should modify the colors of the background based on the time
 
-## Hard Mode
-
 Create a new Github repo, setup your project files, and recreate the following screencapture as a webpage.
 
 ![](./clock.gif)
 
-## Notes
+### Tasks
 
-Notes go here...
-
-## Additional Resources
-
-* Read []()
+#### Getting Started
+  * [ ] Create a new issue with tasks
+  * [ ] Create a new repository
+  * [ ] Create a new branch based on `master` named `<initials>-develop`
+  * [ ] Create and commit `index.html`
+  * [ ] Push and open a Pull Request to `master`
+  * [ ] HTML Boilerplate
+  * [ ] Add structure using HTML
+#### Make it Tick
+  * [ ] Create and commit a new file in called `main.js`
+  * [ ] Created and committed and **RAN** `main.js`
+  * [ ] `console.log` the current time on page load.
+  * [ ] `console.log` the current time every second.
+  * [ ] Display the current time every second
+  * [ ] Display the current time, padded with zeros to be exactly two digits
+    long, every second.
+  * [ ] `console.log` the percentage of a minute that the current seconds
+    represents (e.g., if 30 seconds have elapsed, `console.log` 0.5)
+  * [ ] Using the percent above, dynamically modify the length of the timer bar.
+  * [ ] `console.log` a hexidecimal color that is based on the current second
+    every second.
+  * [ ] Dynamically update the background color of the page using the color.
+  * [ ] Display the generated color's hex value on hover.
+  * [ ] Mission Complete!
