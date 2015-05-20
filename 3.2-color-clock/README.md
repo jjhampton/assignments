@@ -12,7 +12,7 @@ After completing this assignment, you should:
 
 * Have mastery of general JS syntax
 * Be able to write a series of functions that achieve a series of steps
-* Understand arrays and loops, Math oeprations, Stirng operations, and DOM accessores
+* Understand arrays and loops, Math operations, String operations, and DOM accessores
 * Be able to recite the meaning and importance of SOLID principles
 * Be able to breakdown a simple process of mathematical steps into a series of statements in JS
 
